@@ -10,3 +10,13 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+.idea
+.vscode
+dist/lambda.zip
+dist
+pkg
+src/github.com/aws/*
+src/github.com/stretchr/
+hooks/__pycache__/
+resolvers/__pycache__
+src/gopkg.in
